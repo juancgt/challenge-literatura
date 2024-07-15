@@ -24,6 +24,11 @@ Abre el proyecto en tu entorno de desarrollo preferido.
 Ejecuta la aplicación desde tu IDE.
 
 ## Capturas de Pantalla
+![1](https://github.com/user-attachments/assets/de9ef1c5-d528-4d68-a987-6d415b215f14)
+![2](https://github.com/user-attachments/assets/474a80c5-8957-4196-992f-2f4e2a633262)
+![3](https://github.com/user-attachments/assets/276a6ab8-a484-4dec-af63-f87a10f5bffc)
+![4](https://github.com/user-attachments/assets/5b14cc6b-fb86-42d7-a1b5-0c45a2f8a7b2)
+![5](https://github.com/user-attachments/assets/7a9b913c-f1bf-409c-a342-36cf849d0c4f)
 
 ## Créditos
 
